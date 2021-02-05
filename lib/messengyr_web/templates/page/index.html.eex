@@ -4,6 +4,9 @@
 </section>
 
 <section class="row">
+
+  <p>Hello again <%= my_name%> !</p>
+
   <article class="column">
     <h2>Resources</h2>
     <ul>
