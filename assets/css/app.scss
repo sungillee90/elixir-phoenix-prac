@@ -16,7 +16,7 @@ body {
 
   &[class=""] {
     background-color: $main-color;
-    background-image: url("/images/photo-bg.jpg");
+    background-image: url("static/images/photo-bg.jpg");
     background-size: cover;
     background-position: center center;
   }
@@ -62,7 +62,7 @@ a {
 .landing-bg {
   min-height: 100%;
   background-color: $main-color;
-  background-image: url("/images/photo-bg.jpg");
+  background-image: url("static/images/photo-bg.jpg");
   background-size: cover;
   background-position: center center;
 }
